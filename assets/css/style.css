@@ -511,42 +511,75 @@ img{
 }
 
 .skills_boot{
-  width: 94%;
+  width: 95%;
 }
 .skills_react{
-  width: 61%;
+  width: 90%;
 }
 .skills_django{
-  width: 80%;
+  width: 85%;
 }
 .skills_php{
-  width: 50%;
+  width: 90%;
+}
+.skills_jquery{
+  width: 75%;
+}
+.skills_responsive{
+  width: 85%;
+}
+.skills_seo{
+  width: 80%;
+}
+.skills_optimization{
+  width: 85%;
+}
+.skills_git{
+  width: 70%;
+}
+.skills_docker{
+  width: 65%;
 }
 
 .skills_kali{
-  width: 80%;
+  width: 60%;
 }
 .skills_unbutu{
-  width: 61%;
+  width: 72%;
 }
 .skills_pt{
-  width: 78%;
+  width: 80%;
 }
 .skills_network{
   width: 85%;
+}
+.skills_api{
+  width: 70%;
 }
 
 .skills_python{
   width: 84%;
 }
 .skills_c{
-  width: 63%;
+  width: 60%;
 }
 .skills_ml{
   width: 58%;
 }
 .skills_dl{
   width: 44%;
+}
+.skills_jupyter{
+  width: 70%;
+}
+.skills_sql{
+  width: 55%;
+}
+.skills_visualization{
+  width: 60%;
+}
+.skills_excel{
+  width: 65%;
 }
 
 .skills__close .skills__list{
